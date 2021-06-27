@@ -1,0 +1,94 @@
+{
+	"providers": [
+		{
+			"name": "service_providers.lime.name",
+			"subtext": "service_providers.lime.price",
+			"logo": "./images/lime.png",
+			"paragraphs": [
+				{
+					"title": "service_providers.text.about",
+					"text": "service_providers.lime.about"
+				},
+				{
+					"title": "service_providers.text.price",
+					"text": "service_providers.lime.start_price"
+				}
+			]
+		},
+		{
+			"name": "service_providers.bird.name",
+			"subtext": "service_providers.bird.price",
+			"logo": "./images/bird.png",
+			"paragraphs": [
+				{
+					"title": "service_providers.text.about",
+					"text": "service_providers.bird.about"
+				},
+				{
+					"title": "service_providers.text.price",
+					"text": "service_providers.bird.start_price"
+				}
+			]
+		},
+		{
+			"name": "service_providers.spin.name",
+			"subtext": "service_providers.spin.price",
+			"logo": "./images/spin.png",
+			"paragraphs": [
+				{
+					"title": "service_providers.text.about",
+					"text": "service_providers.spin.about"
+				},
+				{
+					"title": "service_providers.text.price",
+					"text": "service_providers.spin.start_price"
+				}
+			]
+		},
+		{
+			"name": "service_providers.tier.name",
+			"subtext": "service_providers.tier.price",
+			"logo": "./images/tier.png",
+			"paragraphs": [
+				{
+					"title": "service_providers.text.about",
+					"text": "service_providers.tier.about"
+				},
+				{
+					"title": "service_providers.text.price",
+					"text": "service_providers.tier.start_price"
+				}
+			]
+		},
+		{
+			"name": "service_providers.circ.name",
+			"subtext": "service_providers.circ.price",
+			"logo": "./images/circ.png",
+			"paragraphs": [
+				{
+					"title": "service_providers.text.about",
+					"text": "service_providers.circ.about"
+				},
+				{
+					"title": "service_providers.text.price",
+					"text": "service_providers.circ.start_price"
+				}
+			]
+		},
+		{
+			"name": "service_providers.share_now.name",
+			"subtext": "service_providers.share_now.price",
+			"logo": "./images/share-now.png",
+			"paragraphs": [
+				{
+					"title": "service_providers.text.about",
+					"text": "service_providers.share_now.about"
+				},
+				{
+					"title": "service_providers.text.price",
+					"text": "service_providers.share_now.start_price"
+				}
+			]
+		}
+	]
+}
